@@ -1,6 +1,5 @@
 package hangman;
 
-import java.util.Set;
 import java.util.TreeSet;
 
 public class Pattern implements Comparable<Pattern> {
